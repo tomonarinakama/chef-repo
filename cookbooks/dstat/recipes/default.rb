@@ -6,6 +6,6 @@
 #
 # All rights reserved - Do Not Redistribute
 #
-pakage "dstat" do
+package "dstat" do
  action :install
 end
